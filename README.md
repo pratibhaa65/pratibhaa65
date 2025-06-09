@@ -20,7 +20,7 @@
 - Backend: PHP
 
 ### 💡 Currently Learning
-- Advanced Data Science techniques  
+- Advanced Data Science techniques
 - Backend frameworks & REST APIs  
 - Machine Learning (starting with Scikit-learn)
 
