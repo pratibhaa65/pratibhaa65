@@ -16,7 +16,7 @@
 - Power BI for data visualization and business intelligence
 
 ### 🌐 Web Development
-- Frontend: HTML5, CSS3  
+- Frontend: HTML5, CSS3, JavaScript, Tailwind CSS  
 - Backend: PHP
 
 ### 💡 Currently Learning
