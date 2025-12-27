@@ -91,6 +91,6 @@
 ## 📫 Connect With Me
 
 - 📧 Email: **pratibhaa625@gmail.com**  
-- 💼 GitHub: [github.com/your-username](https://github.com/pratibhaa65)
+- 💼 GitHub: [github.com/pratibhaa65](https://github.com/pratibhaa65)
 
 ---
