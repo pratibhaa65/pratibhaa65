@@ -1,51 +1,46 @@
 <h1 align="center">Hi 👋, I'm Pratibha Sharma</h1>
-
 <p align="center">
-  💻 Full-Stack Developer | ⚡ Next.js & MERN 
-</p>
-
-<p align="center">
-  I build scalable, real-world web applications with clean architecture and efficient backend systems.  
-  Currently focused on modern full-stack development using Next.js, TypeScript, and robust APIs.
+  💻 Full-Stack Developer | ⚡ Next.js & MERN | 🚀 Building Scalable SaaS
 </p>
 
 ---
 
 ## About Me
-
-- 🎓 BSc CSIT @ Amrit Science Campus (2023–2027)  
-- 💻 Full-Stack Developer with strong **backend fundamentals**  
-- ⚡ Working with **Next.js + TypeScript + PostgreSQL**  
-- 🔐 Interested in **system design, authentication & API architecture**  
-- 🛠️ I focus on **building production-level projects**
+- 🎓 **BSc CSIT** @ Amrit Science Campus (2023–present)  
+- 💼 **Backend Developer** @ Intersect — Building scalable SaaS platforms  
+- 💻 **Full-Stack Developer** with strong backend fundamentals  
+- ⚡ Working with **Next.js + TypeScript + PostgreSQL + Prisma**  
+- 🔐 Focused on **system design, authentication, API architecture, and real-time systems**  
+- 🛠️ Building **production-level projects** with real-world scale
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Full-Stack Development
-- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS  
+- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, Framer Motion  
 - **Backend:** Node.js, Express.js  
-- **Databases:** PostgreSQL, MongoDB, MySQL  
-- **Authentication:** JWT, bcrypt  
-- **API:** REST APIs  
+- **Databases:** PostgreSQL, MongoDB, Firebase (Firestore, Realtime DB)  
+- **ORM & Query:** Prisma, SQL  
+- **Authentication:** JWT, bcrypt, Firebase Auth  
+- **Real-time & Geospatial:** Firebase Realtime Database, Leaflet
+- **APIs:** REST APIs, Webhooks  
 
 ### Tools & Platforms
-- Git & GitHub  
-- Postman  
-- Firebase, Cloudinary  
-- VS Code, MongoDB Compass  
+- **Version Control:** Git & GitHub  
+- **API Testing:** Postman  
+- **Backend Services:** Firebase, Cloudinary, Redis  
+- **Environment:** VS Code, MongoDB Compass, Prisma Studio  
 
 ### Supporting Skills
-- Python, Pandas, NumPy  
-- Data Visualization (Matplotlib, Power BI)  
+- Python, Data Visualization  
+- System design & scalability  
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 **Frontend**
-
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![React](https://skillicons.dev/icons?i=react)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
@@ -53,54 +48,61 @@
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 **Backend**
-
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express.js](https://skillicons.dev/icons?i=express)
 
 **Database**
-
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 **Tools & Platforms**
-
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
 **Supporting Skills**
-
 ![Python](https://skillicons.dev/icons?i=python)
 
+---
 
-## 📂 Projects
+## Projects
 
-### 🧳 Travel Booking Platform (MERN)
-- Full-stack system with authentication and admin panel  
-- REST APIs, booking flow, user roles  
+### Funtush – Multi-Tenant Trekking SaaS Platform
+Ongoing | **Role:** Backend Developer @ Intersect
 
-### 📝 Notes Tracker (MERN)
-- CRUD-based application with efficient state handling  
+Multi-tenant SaaS marketplace for trekking agencies with advanced visibility algorithms, real-time booking flows, and integrated payment processing.
+- 🔗 **GitHub:** [github.com/intersectinfodevelopers/funtush](https://github.com/intersectinfodevelopers/funtush)  
 
-### 🛒 Inventory Management System
-- Built with PHP & MySQL  
-- Dashboard + product management system  
+---
+
+### SmartYatra – School Bus Tracking & Notification System
+Completed
+
+Real-time school bus tracking system with live GPS updates, geofencing, and automated parent notifications via Firebase Cloud Messaging.
+
+- 🔗 **GitHub:** [github.com/prajjwolcodes/track-my-bus](https://github.com/prajjwolcodes/track-my-bus)  
+- 🌐 **Live Demo:** [track-my-bus-iota.vercel.app](https://track-my-bus-iota.vercel.app/)
+
+---
+
+##  Professional Experience
+
+### Backend Developer @ Intersect
+**Building scalable SaaS platforms for the travel & trekking industry**
 
 ---
 
 ## Currently Learning
-
-- Advanced **Next.js architecture (App Router)**  
-- **Type-safe backend development**  
-- **System design & scalability**  
+- **Advanced system design** & scalability patterns  
+- **Payment gateway architecture** & webhook security  
+- **Distributed systems** & microservices  
 
 ---
 
 ## Connect With Me
-
-- 📧 Email: **pratibhaa625@gmail.com**  
-- 💼 GitHub: https://github.com/pratibhaa65  
-- 🌐 Portfolio: pratibhasharma.com.np  
+- 📧 **Email:** pratibhaa625@gmail.com  
+- 💼 **GitHub:** [github.com/pratibhaa65](https://github.com/pratibhaa65)  
+- 🌐 **Portfolio:** [pratibhasharma.com.np](https://pratibhasharma.com.np)
