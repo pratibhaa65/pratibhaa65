@@ -18,7 +18,7 @@
 ## Tech Stack
 
 ### Full-Stack Development
-- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, Framer Motion  
+- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS 
 - **Backend:** Node.js, Express.js  
 - **Databases:** PostgreSQL, MongoDB, Firebase (Firestore, Realtime DB)  
 - **ORM & Query:** Prisma, SQL  
