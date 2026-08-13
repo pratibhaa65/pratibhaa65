@@ -21,9 +21,9 @@
 - **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS 
 - **Backend:** Node.js, Express.js  
 - **Databases:** PostgreSQL, MongoDB, Firebase (Firestore, Realtime DB)  
-- **ORM & Query:** Prisma, SQL  
+- **ORM & Query:** Prisma, SQL, Drizzle  
 - **Authentication:** JWT, bcrypt, Firebase Auth  
-- **Real-time & Geospatial:** Firebase Realtime Database, Leaflet
+- **Real-time & Geospatial:** Firebase Realtime Database
 - **APIs:** REST APIs, Webhooks  
 
 ### Tools & Platforms
