@@ -2,15 +2,16 @@
 <p align="center">
   💻 Full-Stack Developer | ⚡ Next.js & MERN | 🚀 Building Scalable SaaS
 </p>
+<p align="center"> <a href="https://github.com/pratibhaa65">GitHub</a> • <a href="https://pratibhasharma.com.np">Portfolio</a> </p>
 
 ---
 
 ## About Me
-- 🎓 **BSc CSIT** @ Amrit Science Campus (2023–present)  
-- 💼 **Backend Developer** @ Intersect — Building scalable SaaS platforms  
-- 💻 **Full-Stack Developer** with strong backend fundamentals  
-- ⚡ Working with **Next.js + TypeScript + PostgreSQL + Prisma**  
-- 🔐 Focused on **system design, authentication, API architecture, and real-time systems**  
+- 🎓 **BSc CSIT** @ Amrit Science Campus (2023–present)
+- 💼 **Backend Developer** @ Intersect — Building scalable SaaS platforms
+- ⚡ Working with **Next.js + TypeScript + PostgreSQL + Prisma**
+- 🔐 Focused on **system design, authentication, API architecture, and real-time systems**
+- 🐳 **Containerization & Deployment** with Docker and Docker Compose
 - 🛠️ Building **production-level projects** with real-world scale
 
 ---
@@ -18,23 +19,29 @@
 ## Tech Stack
 
 ### Full-Stack Development
-- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS 
-- **Backend:** Node.js, Express.js  
-- **Databases:** PostgreSQL, MongoDB, Firebase (Firestore, Realtime DB)  
-- **ORM & Query:** Prisma, SQL, Drizzle  
-- **Authentication:** JWT, bcrypt, Firebase Auth  
+- **Frontend:** Next.js, React, Redux, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** PostgreSQL, MongoDB, Firebase (Firestore, Realtime DB)
+- **ORM & Query:** Prisma, Drizzle, SQL
+- **Authentication:** JWT, bcrypt, Firebase Auth
 - **Real-time & Geospatial:** Firebase Realtime Database
-- **APIs:** REST APIs, Webhooks  
+- **APIs:** REST APIs, Webhooks
+
+### DevOps & Containerization
+- **Docker:** Docker, Docker Compose, Docker Hub
+- **CI/CD Concepts:** Understanding of containerized deployment
 
 ### Tools & Platforms
-- **Version Control:** Git & GitHub  
-- **API Testing:** Postman  
-- **Backend Services:** Firebase, Cloudinary, Redis  
-- **Environment:** VS Code, MongoDB Compass, Prisma Studio  
+- **Version Control:** Git & GitHub
+- **API Testing:** Postman
+- **Backend Services:** Firebase, Cloudinary, Redis
+- **Containerization:** Docker
+- **Environment:** VS Code, MongoDB Compass, Prisma Studio
 
 ### Supporting Skills
-- Python, Data Visualization  
-- System design & scalability  
+- **Data Science & Analysis:** Python, Pandas, NumPy
+- **System Design:** Scalability patterns
+- **Automation:** n8n, Zapier
 
 ---
 
@@ -45,6 +52,7 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![Redux](https://skillicons.dev/icons?i=redux)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 **Backend**
@@ -55,13 +63,16 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+
+**DevOps & Containerization**
+![Docker](https://skillicons.dev/icons?i=docker)
 
 **Tools & Platforms**
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Prisma](https://skillicons.dev/icons?i=prisma)
 
 **Supporting Skills**
 ![Python](https://skillicons.dev/icons?i=python)
@@ -93,12 +104,24 @@ Real-time school bus tracking system with live GPS updates, geofencing, and auto
 ### Backend Developer @ Intersect
 **Building scalable SaaS platforms for the travel & trekking industry**
 
+**Key Responsibilities:**
+- Backend API development with Node.js and Express.js
+- Database design and optimization with PostgreSQL and Prisma
+- Authentication and authorization implementation
+- Real-time feature development
+- Multi-tenant SaaS architecture
+- REST API design and integration
+- Webhook implementation and management
+- Code review and debugging
+  
 ---
 
 ## Currently Learning
-- **Advanced system design** & scalability patterns  
-- **Payment gateway architecture** & webhook security  
-- **Distributed systems** & microservices  
+- **Payment gateway architecture** & webhook security
+- **Distributed systems** & microservices
+- **Docker & Kubernetes** for container orchestration
+- **CI/CD pipelines** and automated deployment
+- **Cloud infrastructure** (AWS, Google Cloud)
 
 ---
 
